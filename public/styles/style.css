@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: 'Barlow', Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #000;
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    display: flex;
+    margin: auto;
+}
+
+.header .container{
+    justify-content: space-between;
+}
+
+.header{
+    border-bottom: #32B9CD solid 3px;
+}
+.header .navbar{
+    list-style-type: none;
+    color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 300px;
+}
+
+.header .navbar a{
+    color: yellow;
+    text-decoration: none;
+}
+
+.header .container .titulo{
+    color: #32B9CD;
+}
+.agora a{
+    font-weight: 600;
+}
+
+/* banner */
+.banner{
+    height: 426px;
+    background-image: url('../assets/imgs/bg-jelly-fish-para-home.png');
+}
+
+.banner .container p{
+    color: #fff;
+    font-size: 40px;
+    width: 25%;
+}
+.banner .container p span{
+    font-weight: 700;
+}
+.banner .container{
+    height: 100%;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.social{
+    background-color: #E5E5E5;
+    padding: 40px 0;
+}
+.boxes{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.box{
+    width: 250px;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    text-align: center;
+    padding-top: 10px;
+}
+
+.box img{
+    width: 50%;
+}
+
+.box h4{
+    color: #F2105D;
+}
+
+.footer{
+    background-color: #32B9CD;
+}
+.footer .container{
+    display: block;
+    text-align: center;
+    padding: 20px 0 40px 0;
+}
+.footer .container h4{
+    margin: 0;
+}
+
+.login{
+    background-image: url('../assets/imgs/bg-jelly-fish-para_outras_pags.png');
+    height: 765px;
+}
+
+.login .container{
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.login .container .card, .login .container .card .campo, .login .container .card .formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.login .container .card .campo{
+    margin-bottom: 20px;
+}
+
+.login .container .card{
+    background-color: #E5E5E5;
+    width: 500px;
+    padding: 0 70px 20px 70px;
+    border-radius: 10px;
+}
+
+.login .container .card span{
+    display: block;
+    width: 100%;
+    text-align: left;
+    color: #F2105D;
+    font-weight: 600;
+}
+
+.campo input{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px #32B9CD solid;
+    border-radius: 10px;
+}
+
+.card h2{
+    color: #F2105D;
+    font-size: 30px;
+}
+
+.botao{
+    background-color: #F2105D;
+    color: #fff;
+    font-weight: 600;
+    border: none;
+    font-size: 20px;
+    padding: 5px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.simulador{
+    height: 770px;
+}
+
+.simulador .container{
+    color: #fff;
+    flex-direction: column;
+}
