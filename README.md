@@ -47,10 +47,10 @@ Aqui estão as imagens das páginas do site:
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/acquatec.git
+   git clone https://github.com/TheBrunno/acquatec.git
    ```
 2. Abra os arquivos HTML no navegador.  
 
 ## 📌 Autor  
 
-Projeto desenvolvido com 💙 por **Bruno Oliveira**, durante o primeiro semestre na **faculdade SPTech**.  
+Projeto desenvolvido com 💙 por **[Bruno Oliveira](https://github.com/TheBrunno)**, durante o primeiro semestre na **faculdade SPTech**.  
