@@ -31,10 +31,12 @@ Aqui estão as imagens das páginas do site:
 ![image](https://github.com/user-attachments/assets/ed321216-0170-4216-a830-b504b1ec86e1)  
 
 #### 📌 Login  
-![image](https://github.com/user-attachments/assets/259dd16d-94d5-445e-93b1-74af72e028a5)  
+![image](https://github.com/user-attachments/assets/6a763044-abc1-4174-932c-eb261c2f0434)
 
+ 
 #### 📌 Cadastro  
-![image](https://github.com/user-attachments/assets/ee50f707-9fd5-49bd-a581-8ce7b9aa46ce)  
+![image](https://github.com/user-attachments/assets/b2c577cb-a5e9-478d-a27c-b0d672ae0b32)
+
 
 ## 🎨 Tecnologias utilizadas  
 
